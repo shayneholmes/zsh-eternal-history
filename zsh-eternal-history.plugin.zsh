@@ -2,7 +2,7 @@
 
 # big big history
 HISTFILE=~/.zsh_history
-HISTSIZE=1000
+HISTSIZE=10000
 SAVEHIST=1000000
 
 _eternal_history_histfile=~/.zsh_eternal_history
